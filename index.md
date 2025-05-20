@@ -8,3 +8,8 @@
 ``` javascript
 var myVar = "Hello world"
 ```
+
+## Testing task lists
+- [x] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [x] Introduce myself to the world
